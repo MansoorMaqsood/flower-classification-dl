@@ -44,5 +44,8 @@ is not implemented here. Other ideas: newer architectures (EfficientNet,
 DenseNet, Vision Transformers), a larger validation set, and a mobile or web
 application.
 
+Paper (PDF): [Flower Classification with Deep Learning]
+(https://github.com/MansoorMaqsood/flower-classification-dl/raw/main/Flower%20Classification%20with%20Deep%20Learning.pdf)
+
 ## Author
 Mansoor Maqsood, University of Sialkot
